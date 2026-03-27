@@ -1,52 +1,53 @@
-# Hi, I'm Goutham 👋
+# Hey there 👋
 
-💻 Full Stack Developer
-⚛️ React • Django • Flask • PostgreSQL
-📍 India
+I'm Goutham, a full stack developer based in India.
 
----
+I enjoy building web applications that are simple, useful, and actually solve problems.
+Most of my work revolves around React, Django, and recently Flask.
 
-## 🚀 About Me
+I recently graduated with a degree in Computer Science, and spent some time as a **Software Developer Mentor at NxtWave**, helping others understand programming and build projects from scratch.
 
-* BTech CSE graduate (VIT Bhopal)
-* Former **Software Developer Mentor @ NxtWave**
-* Passionate about building real-world web apps
-* Currently exploring **Flask & backend systems**
+Right now, I’m focused on improving my backend skills and exploring how to build scalable systems.
 
 ---
 
-## 🛠 Tech Stack
+### ⚒️ What I work with
 
-* Frontend: React, JavaScript, HTML, CSS
-* Backend: Django, Flask, Node.js, Express
-* Database: PostgreSQL, MongoDB
-* Tools: Git, GitHub, REST APIs
+React, JavaScript, Django, Flask, Node.js, PostgreSQL, MongoDB
+Git, REST APIs, and a lot of debugging 🙂
 
 ---
 
-## 📌 Projects
+### 🚧 What I'm currently doing
 
-* 🎥 YouTube Clone
-* 🛒 Easy-Sell
-* 📇 Contact List App
-* 🎬 Movie List
-* 🩸 Blood Donation System
+* Learning Flask in depth
+* Practicing DSA regularly
+* Building and refining real-world projects
 
 ---
 
-## 🌱 Currently
+### 📌 A few things I've built
 
-* Learning Flask deeply
-* Improving DSA & backend skills
-* Building better and scalable apps
+* YouTube Clone
+* Easy-Sell (marketplace app)
+* Contact List App
+* Blood Donation System
 
 ---
 
-## 🌐 Connect
+### ✨ A little extra
+
+* I enjoy teaching as much as coding
+* I like clean UI and simple logic
+* Debugging feels satisfying (sometimes 😄)
+
+---
+
+### 📫 Reach me
 
 * Portfolio: https://goutham-portfolio-nrg.vercel.app/
 * LinkedIn: https://www.linkedin.com/in/nandula-goutham
 
 ---
 
-⭐️ Just building, learning, and getting better every day.
+> Just trying to get better every single day.
