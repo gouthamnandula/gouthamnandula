@@ -26,6 +26,7 @@ Right now I'm focused on strengthening my backend skills and exploring how to bu
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -54,6 +55,7 @@ Right now I'm focused on strengthening my backend skills and exploring how to bu
 ## 🚧 What I'm Currently Doing
 
 - 🔥 Learning **FastAPI** in depth
+- 📦 Getting started with **Next.js** *(beginner)*
 - 🧠 Practicing **DSA** regularly
 - 🔨 Building and refining real-world projects
 
@@ -65,7 +67,7 @@ Right now I'm focused on strengthening my backend skills and exploring how to bu
 |---|---|---|
 | 🎬 **YouTube Clone** | Full-stack video platform with uploads, streaming, likes & channel pages | Django · ImageKit · HLS |
 | 📡 **Sociogram** | Social media app with JWT auth, image/video uploads & a shared feed | FastAPI · Streamlit · ImageKit |
-| 🛒 **Easy-Sell** | Marketplace app for buying and selling | Django |
+| 🛒 **Easy-Sell** | Marketplace app for buying and selling | Next.js |
 | 📋 **Contact List App** | Simple contact management app | React · Node.js |
 | 🩸 **Blood Donation System** | Platform connecting donors and recipients | Django |
 
